@@ -1,0 +1,813 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay concerning the multiplication of mankind: together with another essay in political arithmetick, concerning the growth of the city of London: with the measures, periods, causes, and consequences thereof. 1682. / By Sir William Petty ...</title>
+            <author>Petty, William, Sir, 1623-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09727</idno>
+            <idno type="OCLC"> 80923384</idno>
+            <idno type="STC">Wing P1923A</idno>
+            <idno type="STC">ESTC R181748</idno>
+            <idno type="EEBO-CITATION">80923384</idno>
+            <idno type="OCLC">ocm 80923384</idno>
+            <idno type="VID">191954</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09727)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191954)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2896:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay concerning the multiplication of mankind: together with another essay in political arithmetick, concerning the growth of the city of London: with the measures, periods, causes, and consequences thereof. 1682. / By Sir William Petty ...</title>
+                  <author>Petty, William, Sir, 1623-1687.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The third edition revised and enlarged.</edition>
+               </editionStmt>
+               <extent>43 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Clavel ... and Henry Mortlock ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Boston Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  Population --  Early works to 1800.</term>
+               <term>London (England) --  Statistics, Vital --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191954:1" rendition="simple:additions"/>
+            <p>AN ESSAY Concerning the <hi rend="blackletterType">Multiplication of Mankind:</hi> Together with another ESSAY IN <hi>Political Arithmetick,</hi> Concerning the Growth of the City of <hi>LONDON:</hi> WITH THE Meaſures, Periods, Cauſes, and Conſe<g ref="char:EOLhyphen"/>quences thereof. 1682.</p>
+            <p>
+               <hi>The Third Edition Reviſed and Enlarged.</hi>
+            </p>
+            <p>By Sir WILLIAM PETTY, late Fellow of the <hi>Royal-Society.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Clavel</hi> at the <hi>Peacock,</hi> and <hi>Henry Mortlock</hi> at the <hi>Phoenix</hi> in St. <hi>Paul</hi>'s <hi>Church Yard,</hi> 1698.</p>
+         </div>
+         <div type="stationer_to_the_reader">
+            <pb facs="tcp:191954:2"/>
+            <pb facs="tcp:191954:2"/>
+            <head>THE STATIONER TO THE READER.</head>
+            <p>THE enſuing <hi>Eſſay</hi> concerning the <hi>Growth</hi> of the <hi>City</hi> of <hi>London,</hi> was Entitled <hi>[Ano<g ref="char:EOLhyphen"/>ther Eſſay]</hi> intimating that ſome o<g ref="char:EOLhyphen"/>ther <hi>Eſſay</hi> had preceded it, which was not to be found. I having been much importuned for that precedent <hi>Eſſay,</hi> have found that the ſame was about the <hi>Growth, Increaſe,</hi> and <hi>Multipli<g ref="char:EOLhyphen"/>cation</hi> of Mankind, which Subject ſhould in Order of <hi>Nature,</hi> precede that of
+<pb facs="tcp:191954:3"/>the <hi>Growth</hi> of the City of <hi>London,</hi> but am not able to procure the <hi>Eſſay</hi> it ſelf, only I have obtained from a Gentleman, who ſometimes correſponded with Sir <hi>William Petty,</hi> an Extract of a Letter from Sir <hi>William</hi> to him, which I verily believe containeth the ſcope thereof; wherefore, I muſt deſire the Reader to be content therewith, till more can be had.</p>
+         </div>
+         <div type="extract_from_letter">
+            <pb n="5" facs="tcp:191954:3"/>
+            <head>The Extract of a <hi>Letter</hi> con<g ref="char:EOLhyphen"/>cerning the ſcope of an <hi>ESSAY</hi> intended to precede <hi>another ESSAY</hi> concerning the Growth of the <hi>City</hi> of <hi>LONDON,</hi> &amp;c.</head>
+            <head type="sub">An <hi>ESSAY</hi> in <hi>Political Arith<g ref="char:EOLhyphen"/>metick,</hi> concerning the Value and Increaſe of <hi>People</hi> and <hi>Colonies.</hi>
+            </head>
+            <p>THE Scope of this <hi>Eſſay,</hi> is con<g ref="char:EOLhyphen"/>cerning People and Colonies, and to make way for another <hi>Eſſay</hi> concerning the <hi>Growth</hi> of the City of <hi>London.</hi> I deſire in this firſt <hi>Eſſay,</hi> to give the World ſome light, concerning the Numbers of People in <hi>England,</hi> with <hi>Wales,</hi> and in <hi>Ireland;</hi>
+               <pb n="6" facs="tcp:191954:4"/>as alſo, of the Number of Houſes and Families, wherein they live, and of A<g ref="char:EOLhyphen"/>cres they occupy.</p>
+            <list>
+               <item n="2">2. How many live upon their <hi>Lands,</hi> how many upon their <hi>Perſonal Eſtates</hi> and <hi>Commerce,</hi> and how many upon <hi>Art</hi> and <hi>Labour;</hi> how many upon <hi>Alms,</hi> how many upon <hi>Offices</hi> and <hi>Publick Em<g ref="char:EOLhyphen"/>ployments,</hi> and how many as <hi>Cheats</hi> and <hi>Thieves;</hi> how many are <hi>Impotent, Chil<g ref="char:EOLhyphen"/>dren,</hi> and <hi>decrepit old Men.</hi>
+               </item>
+               <item n="3">3. How many upon the <hi>Poll-Taxes</hi> in <hi>England,</hi> do pay extraordinary Rates, and how many at the Level.</item>
+               <item n="4">4. How many Men and Women are <hi>Prolifick,</hi> and how many of each are Married and Unmarried.</item>
+               <item n="5">5. What the Value of People are in <hi>England,</hi> and what in <hi>Ireland</hi> at a <hi>Me<g ref="char:EOLhyphen"/>dium,</hi> both as Members of the <hi>Church</hi> or <hi>Commonwealth,</hi> or as <hi>Slaves</hi> and Ser<g ref="char:EOLhyphen"/>vants to one another; with a Method how to eſtimate the ſame, in any other <hi>Country</hi> or <hi>Colony.</hi>
+               </item>
+               <item n="6">6. How to compute the Value of Land in <hi>Colonies,</hi> in compariſon to <hi>En<g ref="char:EOLhyphen"/>gland</hi> and <hi>Ireland.</hi>
+               </item>
+               <pb n="7" facs="tcp:191954:4"/>
+               <item n="7">7. How Ten Thouſand People in a <hi>Colony</hi> may be, and planted to the beſt advantage.</item>
+               <item n="8">8. A Conjecture in what Number of Years <hi>England</hi> and <hi>Ireland</hi> may be fully peopled, as alſo all <hi>America;</hi> and laſtly the whole habitable Earth.</item>
+               <item n="9">9. What ſpot of the <hi>Earth's-Globe</hi> were fitteſt for a general and univerſal <hi>Em<g ref="char:EOLhyphen"/>porium,</hi> whereby all the People thereof may beſt enjoy one anothers Labours and Commodities.</item>
+               <item n="10">10. Whether the ſpeedy peopling of the Earth would make,
+<list>
+                     <item n="1">1. For the good of Mankind.</item>
+                     <item n="2">2. To fulfil the revealed <hi>Will</hi> of <hi>God.</hi>
+                     </item>
+                     <item n="3">3. To what <hi>Prince</hi> or <hi>State</hi> the ſame would be moſt advantage<g ref="char:EOLhyphen"/>ous.</item>
+                  </list>
+               </item>
+               <item n="11">11. An Exhortation to all thinking Men, to ſalve the Scriptures and other good Hiſtories, concerning the <hi>Num<g ref="char:EOLhyphen"/>ber</hi> of <hi>People</hi> in all <hi>Ages</hi> of the <hi>World,</hi> in the great <hi>Cities</hi> thereof, and elſe<g ref="char:EOLhyphen"/>where.</item>
+               <item n="12">12. An Appendix concerning the dif<g ref="char:EOLhyphen"/>ferent Number of <hi>Sea-Fiſh</hi> and <hi>Wild-Fowl,</hi>
+                  <pb n="8" facs="tcp:191954:5"/>at the end of every Thouſand Years, ſince <hi>Noah</hi>'s Flood.</item>
+               <item n="13">13. An <hi>Hypotheſis</hi> of the uſe of thoſe Spaces (of about 8000 Miles through) within the <hi>Globe</hi> of our <hi>Earth,</hi> ſuppoſing a Shell of 150 Miles thick.</item>
+               <item n="14">14. What may be the meaning of <hi>Glorified Bodies,</hi> in caſe the place of the Bleſſed ſhall be without the Con<g ref="char:EOLhyphen"/>vex of the Orb of the <hi>fixed Stars,</hi> if that the whole Syſtem of the <hi>World</hi> was made for the uſe of our <hi>Earth</hi>'s <hi>Men.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="argument">
+            <pb n="9" facs="tcp:191954:5"/>
+            <head>The Principal Points of this Diſcourſe.</head>
+            <list>
+               <item n="1">
+                  <hi>1.</hi> THAT <hi>London</hi> doubles in Forty Years, and all <hi>England</hi> in Three Hundred and Sixty Years.</item>
+               <item n="2">
+                  <hi>2.</hi> That there be, <hi>Anno 1682.</hi> about Six Hundred and Seventy Thouſand Souls in <hi>London;</hi> and about Seven Millions, Four Hundred Thouſand in all <hi>England</hi> and <hi>Wales,</hi> and about Twenty Eight Millions of Acres of profitable Land.</item>
+               <item n="3">
+                  <hi>3.</hi> That the Periods of doubling the People, are found to be in all Degrees, from between Ten to Twelve Hundred Years.</item>
+               <item n="4">
+                  <hi>4.</hi> That the Growth of <hi>London</hi> muſt ſtop of itſelf, before the Year <hi>1800.</hi>
+               </item>
+               <item n="5">
+                  <hi>5.</hi> A Table helping to underſtand the <hi>Scriptures,</hi> concerning the Number of People mentioned in them.</item>
+               <item n="6">
+                  <hi>6.</hi> That the <hi>World</hi> will be fully Peopled within the next Two Thouſand Years.</item>
+               <pb n="10" facs="tcp:191954:6"/>
+               <item n="7">
+                  <hi>7.</hi> Twelve ways whereby to Try any Pro<g ref="char:EOLhyphen"/>poſal, pretended for the publick Good.</item>
+               <item n="8">
+                  <hi>8.</hi> How the City of <hi>London</hi> may be made (morally ſpeaking) <hi>Invincible.</hi>
+               </item>
+               <item n="9">
+                  <hi>9.</hi> An help to Uniformity in Religion.</item>
+               <item n="10">
+                  <hi>10.</hi> That 'tis poſſible to increaſe Man<g ref="char:EOLhyphen"/>kind by Generation four times more than at preſent.</item>
+               <item n="11">
+                  <hi>11.</hi> The Plagues of <hi>London</hi> are the Chief Impediment and Objection againſt the Growth of the City.</item>
+               <item n="12">
+                  <hi>12.</hi> That an exact Account of the People is neceſſary in this Matter.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="11" facs="tcp:191954:6"/>
+            <head>Of the Growth of the City of <hi>LONDON,</hi> and of the Mea<g ref="char:EOLhyphen"/>ſures, Periods, Cauſes and Conſequences thereof.</head>
+            <p>BY the City of <hi>London,</hi>
+               <note place="margin">Wh<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is me<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t by <hi>Lo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>on.</hi>
+               </note> we mean the Houſing within the Walls of the Old City, with the Liberties thereof, <hi>Weſtminſter,</hi> the <hi>Borough</hi> of <hi>Southwark,</hi> and ſo much of the built Ground in <hi>Middleſex</hi> and <hi>Surrey,</hi> whoſe Houſes are contiguous unto, or within Call of thoſe afore-mentioned. Or elſe we mean the Houſing which ſtand upon the Ninety Seven Pariſhes within the Walls of <hi>Lon<g ref="char:EOLhyphen"/>don;</hi> upon the Sixteen Pariſhes next, without them; the Six Pariſhes of <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> and the Fourteen out-Pariſhes in <hi>Middleſex</hi> and <hi>Surrey,</hi> contiguous to the former, all which One Hundred and Thirty Three Pariſhes are compre<g ref="char:EOLhyphen"/>hended
+<pb n="12" facs="tcp:191954:7"/>within the Weekly <hi>Bills</hi> of <hi>Mor<g ref="char:EOLhyphen"/>tality.</hi>
+            </p>
+            <p>The Growth of this City is meaſured,<note place="margin">Wha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is mea<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Gro<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h of <hi>Lon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on.</hi>
+               </note>1. By the Quantity of Ground, or Num<g ref="char:EOLhyphen"/>ber of Acres upon which it ſtands. 2. By the Number of Houſes, as the ſame ap<g ref="char:EOLhyphen"/>pears by the Hearth-Books and late <hi>Maps.</hi> 3. By the Cubical Content of the ſaid Houſing. 4. By the Flooring of the ſame. 5. By the Number of Days-work, or Charge of Building the ſaid Houſes. 6. By the Value of the ſaid Houſes, according to their yearly Rent, and Number of Years Purchaſe. 7. By the Number of Inhabitants; according to which latter Senſe only, we make our Computation in this Eſſay.</p>
+            <p>Till a better Rule can be obtained, we conceive that the Proportion of the People may be ſufficiently meaſured by the Proportion of the <hi>Burials</hi> in ſuch Years as were neither remarkable for extraordinary Healthfulneſs or Sick<g ref="char:EOLhyphen"/>lineſs.</p>
+            <p>That the City hath Increaſed in this latter Senſe,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> what M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſures th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> City ha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in<g ref="char:EOLhyphen"/>cr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſed.</note> appears from the <hi>Bills</hi> of <hi>Mortality,</hi> repreſented in the two follow<g ref="char:EOLhyphen"/>ing Tables, <hi>viz.</hi> One whereof is a con<g ref="char:EOLhyphen"/>tinuation for Eighteen Years, ending 1682. of that Table which was publiſh<g ref="char:EOLhyphen"/>ed
+<pb n="13" facs="tcp:191954:7"/>in the 117. <hi>Page</hi> of the Book of the Obſervations upon the <hi>London</hi> Bills of <hi>Mortality,</hi> Printed in the Year 1676. The other ſheweth what Number of People died at a <hi>Medium</hi> of two Years, indifferently taken, at about Twenty Years diſtance from each other.</p>
+            <p>
+               <table>
+                  <head>The firſt of the ſaid two Tables.</head>
+                  <row role="label">
+                     <cell>
+                        <hi>Anno Dom.</hi>
+                     </cell>
+                     <cell>97 <hi>Pa<g ref="char:EOLhyphen"/>riſhes.</hi>
+                     </cell>
+                     <cell>16 <hi>Pa<g ref="char:EOLhyphen"/>riſhes.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Out-Pa<g ref="char:EOLhyphen"/>riſhes.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Buried in all.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Beſides of the Plag.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Chriſtn'd</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1665</cell>
+                     <cell>5320</cell>
+                     <cell>12463</cell>
+                     <cell>10925</cell>
+                     <cell>28708</cell>
+                     <cell>68596</cell>
+                     <cell>9967</cell>
+                  </row>
+                  <row>
+                     <cell>1666</cell>
+                     <cell>1689</cell>
+                     <cell>3969</cell>
+                     <cell>5082</cell>
+                     <cell>10740</cell>
+                     <cell>1998</cell>
+                     <cell>8997</cell>
+                  </row>
+                  <row>
+                     <cell>1667</cell>
+                     <cell>761</cell>
+                     <cell>6405</cell>
+                     <cell>8641</cell>
+                     <cell>15807</cell>
+                     <cell>35</cell>
+                     <cell>10938</cell>
+                  </row>
+                  <row>
+                     <cell>1668</cell>
+                     <cell>796</cell>
+                     <cell>6865</cell>
+                     <cell>9603</cell>
+                     <cell>17267</cell>
+                     <cell>14</cell>
+                     <cell>11633</cell>
+                  </row>
+                  <row>
+                     <cell>1669</cell>
+                     <cell>1323</cell>
+                     <cell>7500</cell>
+                     <cell>10440</cell>
+                     <cell>19263</cell>
+                     <cell>3</cell>
+                     <cell>12335</cell>
+                  </row>
+                  <row>
+                     <cell>1670</cell>
+                     <cell>1890</cell>
+                     <cell>7808</cell>
+                     <cell>10500</cell>
+                     <cell>20198</cell>
+                     <cell> </cell>
+                     <cell>11997</cell>
+                  </row>
+                  <row>
+                     <cell>1671</cell>
+                     <cell>1723</cell>
+                     <cell>5938</cell>
+                     <cell>8063</cell>
+                     <cell>15724</cell>
+                     <cell>5</cell>
+                     <cell>12510</cell>
+                  </row>
+                  <row>
+                     <cell>1672</cell>
+                     <cell>2237</cell>
+                     <cell>6788</cell>
+                     <cell>9200</cell>
+                     <cell>18225</cell>
+                     <cell>5</cell>
+                     <cell>12593</cell>
+                  </row>
+                  <row>
+                     <cell>1673</cell>
+                     <cell>2307</cell>
+                     <cell>6302</cell>
+                     <cell>8890</cell>
+                     <cell>17499</cell>
+                     <cell>5</cell>
+                     <cell>11895</cell>
+                  </row>
+                  <row>
+                     <cell>1674</cell>
+                     <cell>2801</cell>
+                     <cell>7522</cell>
+                     <cell>10875</cell>
+                     <cell>21198</cell>
+                     <cell>3</cell>
+                     <cell>11851</cell>
+                  </row>
+                  <row>
+                     <cell>1675</cell>
+                     <cell>2555</cell>
+                     <cell>5986</cell>
+                     <cell>8702</cell>
+                     <cell>17243</cell>
+                     <cell>1</cell>
+                     <cell>11775</cell>
+                  </row>
+                  <row>
+                     <cell>1676</cell>
+                     <cell>2756</cell>
+                     <cell>6508</cell>
+                     <cell>9466</cell>
+                     <cell>18730</cell>
+                     <cell>2</cell>
+                     <cell>12399</cell>
+                  </row>
+                  <row>
+                     <cell>1677</cell>
+                     <cell>2817</cell>
+                     <cell>6632</cell>
+                     <cell>9616</cell>
+                     <cell>19065</cell>
+                     <cell>2</cell>
+                     <cell>12626</cell>
+                  </row>
+                  <row>
+                     <cell>1678</cell>
+                     <cell>3060</cell>
+                     <cell>6705</cell>
+                     <cell>10908</cell>
+                     <cell>20673</cell>
+                     <cell>5</cell>
+                     <cell>12601</cell>
+                  </row>
+                  <row>
+                     <cell>1679</cell>
+                     <cell>3074</cell>
+                     <cell>7481</cell>
+                     <cell>11173</cell>
+                     <cell>21728</cell>
+                     <cell>2</cell>
+                     <cell>12288</cell>
+                  </row>
+                  <row>
+                     <cell>1680</cell>
+                     <cell>3076</cell>
+                     <cell>7066</cell>
+                     <cell>10911</cell>
+                     <cell>21053</cell>
+                     <cell> </cell>
+                     <cell>12747</cell>
+                  </row>
+                  <row>
+                     <cell>1681</cell>
+                     <cell>3669</cell>
+                     <cell>8136</cell>
+                     <cell>12166</cell>
+                     <cell>23971</cell>
+                     <cell> </cell>
+                     <cell>13355</cell>
+                  </row>
+                  <row>
+                     <cell>1682</cell>
+                     <cell>2975</cell>
+                     <cell>7009</cell>
+                     <cell>10707</cell>
+                     <cell>20691</cell>
+                     <cell> </cell>
+                     <cell>12353</cell>
+                  </row>
+               </table>
+            </p>
+            <p>According to which latter Table there died as followeth.</p>
+            <p>
+               <table>
+                  <pb n="14" facs="tcp:191954:8"/>
+                  <head>The latter of the ſaid two Tables.</head>
+                  <row role="label">
+                     <cell>At a <hi>Medium</hi> between the Years</cell>
+                     <cell>There died in <hi>London,</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>1604 and 1605</cell>
+                     <cell>5135.</cell>
+                     <cell>A.</cell>
+                  </row>
+                  <row>
+                     <cell>1621 and 1622</cell>
+                     <cell>8527.</cell>
+                     <cell>B.</cell>
+                  </row>
+                  <row>
+                     <cell>1641 and 1642</cell>
+                     <cell>11883.</cell>
+                     <cell>C.</cell>
+                  </row>
+                  <row>
+                     <cell>1661 and 1662</cell>
+                     <cell>15148.</cell>
+                     <cell>D.</cell>
+                  </row>
+                  <row>
+                     <cell>1681 and 1682</cell>
+                     <cell>22331.</cell>
+                     <cell>E.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Wherein obſerve, That the Number C. is double to A. and 806 over. That D. is double to B. within 1906. That C. and D. is double to A. B. within 293. That E. is double to C. within 1435. That D. and E. is double to B. and C. with<g ref="char:EOLhyphen"/>in 3341. And that C. and D. and E. are double to A. and B. and C. within 1736. And that E. is above Quadruple to A. All which Differences (every way conſidered) do allow the doubling of the People of <hi>London</hi> in Forty Years, to be a ſufficient eſtimate thereof in round Numbers, and without the trouble of Fractions. We alſo ſay, That 669930 is near the Number of People now in <hi>London,</hi> becauſe the Burials are 22331.
+<pb n="15" facs="tcp:191954:8"/>which multiplied by 30, (one dying yearly out of 30, as appears in the 94 <hi>p.</hi> of the afore-mentioned Obſervations) maketh the ſaid Number; and becauſe there are 84000 tenanted Houſes (as we are credibly informed) which at eight in each, makes 672000 Souls; the ſaid two Accounts differing inconſiderably from each other.</p>
+            <p>We have thus pretty well found out in what Number of Years (<hi>viz.</hi> in a<g ref="char:EOLhyphen"/>bout 40) that the City of <hi>London</hi> hath doubled, and the preſent Number of <hi>In<g ref="char:EOLhyphen"/>habitants</hi> to be about 670000. We muſt now alſo endeavour the ſame for the whole <hi>Territory</hi> of <hi>England</hi> and <hi>Wales.</hi> In order whereunto, we</p>
+            <p>Firſt ſay, That the Aſſeſſment of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> is about an<note n="†" place="margin">The Peo<g ref="char:EOLhyphen"/>ple of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> are a<g ref="char:EOLhyphen"/>bout the 11th. part of all <hi>En<g ref="char:EOLhyphen"/>gland</hi> and <hi>Wales.</hi>
+               </note> Eleventh part of the whole Territory, and therefore that the People of the whole may well be Eleven times that of <hi>London, viz.</hi> about<note n="‖" place="margin">The Peo<g ref="char:EOLhyphen"/>ple of <hi>En<g ref="char:EOLhyphen"/>gland</hi> a<g ref="char:EOLhyphen"/>bout ſeven Millions and Four Hundred Thouſand.</note> Seven Millions, Three Hundred Sixty Nine Thouſand Souls; with which Account that of the <hi>Poll-Money, Hearth-Money,</hi> and the Biſhops late numbring of the <hi>Commu<g ref="char:EOLhyphen"/>nicants,</hi> do pretty well agree; where<g ref="char:EOLhyphen"/>fore although the ſaid Number of Seven Millions, Three Hundred Sixty Nine Thouſand, be not (as it cannot be) a
+<pb n="16" facs="tcp:191954:9"/>
+               <hi>demonſtrated Truth,</hi> yet it will ſerve for a good <hi>Suppoſition,</hi> which is as much as we want at preſent.</p>
+            <p>As for the time in which the People double, it is yet more hard to be found: For we have good Experience (in the ſaid 94 <hi>pag.</hi> of the afore-mentioned Obſer<g ref="char:EOLhyphen"/>vations) that in the Country, but one of fifty die <hi>per Annum;</hi> and by other late Accounts, that there have been ſometimes but Twenty Four <hi>Births</hi> for Twenty Three <hi>Burials:</hi> The which two Points, if they were univerſally, and con<g ref="char:EOLhyphen"/>ſtantly true, there would be colour e<g ref="char:EOLhyphen"/>nough to ſay, that the People doubled but in about 1200 Years. As for Ex<g ref="char:EOLhyphen"/>ample: Suppoſe there be 600 People, of which let a fiftieth part die <hi>per An<g ref="char:EOLhyphen"/>num,</hi> then there ſhall die Twelve <hi>per An<g ref="char:EOLhyphen"/>num;</hi> and if the Births be as Twenty Four to Twenty Three, then the Increaſe of the People ſhall be ſomewhat above half a Man <hi>per Annum,</hi> and conſequent<g ref="char:EOLhyphen"/>ly the ſuppoſed Number of 600, can<g ref="char:EOLhyphen"/>not be doubled but in 1126 Years, which to reckon in round Numbers, and for that the afore-mentioned Fracti<g ref="char:EOLhyphen"/>ons were not exact, we had rather call 1200.</p>
+            <pb n="17" facs="tcp:191954:9"/>
+            <p>There are alſo other good <hi>Obſervati<g ref="char:EOLhyphen"/>ons,</hi> That even in the Country, one in about 30, or 32 <hi>per Annum</hi> hath died, and that there have been five <hi>Births</hi> for four <hi>Burials.</hi> Now, according to this Do<g ref="char:EOLhyphen"/>ctrine, 20 will die <hi>per Annum</hi> out of the above 600, and 25 will be born, ſo as the <hi>Increaſe</hi> will be 5, which is a hundred and twentieth part of the ſaid 600. So as we have two fair <hi>Computations,</hi> differing from each other as one to ten; and there are alſo ſeveral other good <hi>Obſervations</hi> for other <hi>Meaſures.</hi>
+            </p>
+            <p>I might here inſert, That altho the Births in this laſt Computation be 25 of 600, or a Twenty fourth part of the People; yet that in Natural poſſibility, they may be near thrice as many, and near 75. For that by ſome late <hi>Obſervations,</hi> the <hi>Teem<g ref="char:EOLhyphen"/>ing</hi> Females between 15 and 44, are a<g ref="char:EOLhyphen"/>bout 180 of the ſaid 600, and the <hi>Males</hi> of between 18 and 59, are about 180 alſo, and that every Teeming <hi>Woman</hi> can bear a <hi>Child</hi> once in two Years; from all which it is plain, that the <hi>Births</hi> may be 90, (and abating 15 for <hi>Sickneſs,</hi> Young <hi>A<g ref="char:EOLhyphen"/>bortions,</hi> and <hi>Natural Barrenneſs</hi>) there may remain 75 Births, which is an Eighth of the People; which by ſome Obſervati<g ref="char:EOLhyphen"/>ons
+<pb n="18" facs="tcp:191954:10"/>we have found to be but a <hi>two and thirtieth part,</hi> or but a <hi>quarter</hi> of what is thus ſhewn to be Naturally poſſible. Now, according to this Reckoning, if the <hi>Births</hi> may be 75 of 600, and the <hi>Burials</hi> but 15, then the <hi>Annual Increaſe</hi> of the People will be 60; and ſo the ſaid 600 People may double in 10 Years, which differs yet more from 1200, a<g ref="char:EOLhyphen"/>bovementioned. Now to get out of this Difficulty, and to temper thoſe vaſt diſa<g ref="char:EOLhyphen"/>greements, I took the <hi>Medium</hi> of 50 and 30 dying <hi>per Annum,</hi> and pitch'd upon 40; and I alſo took the <hi>Medium</hi> between 24 <hi>Births</hi> and 23 <hi>Burials,</hi> and 5 <hi>Births</hi> for 4 <hi>Burials, viz.</hi> allowing about 10 <hi>Births</hi> for 9 <hi>Burials;</hi> upon which Suppoſition, there muſt die 15 <hi>per Annum</hi> out of the above-mentioned 600, and the <hi>Births</hi> muſt be 16 <hi>and two thirds,</hi> and the In<g ref="char:EOLhyphen"/>creaſe 1, and two Thirds, or five Thirds of a Man,<note place="margin">That the time of doubling is here, and now <hi>360</hi> Years.</note> which Number compared with 1800 <hi>Thirds,</hi> or 600 Men, gives 360 Years for the time of doubling (in<g ref="char:EOLhyphen"/>cluding ſome Allowance for <hi>Wars, Plagues,</hi> and <hi>Famine;</hi> the Effects whereof, though they be <hi>Terrible</hi> at the Times and Places where they happen, yet in a period of 360 Years, is no great matter in the
+<pb n="19" facs="tcp:191954:10"/>whole Nation. For the Plagues of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in 20 Years hath carried away ſcarce an Eightieth part of the People of the whole Nation; and the late 10 Years <hi>Civil Wars,</hi> (the like whereof hath not been in ſeveral Ages before) did not take away above a fortieth part of the whole People.)</p>
+            <p>According to which Account or Mea<g ref="char:EOLhyphen"/>ſure of doubling, if there be now in <hi>England</hi> and <hi>Wales,</hi> 7 Millions 400 Thou<g ref="char:EOLhyphen"/>ſand People, there were about 5 Millions 526 Thouſand in the beginning of Queen <hi>Elizabeths</hi> Reign, <hi>Anno</hi> 1560, and about two Millions at the <hi>Norman Conqueſt;</hi> of which Conſult the <hi>Dooms-day Book,</hi> and My Lord <hi>Hale</hi>'s <hi>Origination</hi> of <hi>Mankind.</hi>
+            </p>
+            <p>
+               <hi>Memorandum,</hi>
+               <note place="margin">
+                  <hi>320</hi> Mil<g ref="char:EOLhyphen"/>lions now in the World.</note> That if the People double in 360 Years, that the preſent 320 Mil<g ref="char:EOLhyphen"/>lions, computed by ſome Learned Men, (from the Meaſures of all the Nations of the World, their degrees of being Peopled, and good Accounts of the People in ſeveral of them) to be now up<g ref="char:EOLhyphen"/>on the face of the Earth, will within the next 2000 Years. ſo increaſe, as to give one Head for every two Acres of Land in the <hi>Habitable</hi> part of the <hi>Earth.</hi> And then, according to the <hi>Prediction</hi> of the
+<pb n="20" facs="tcp:191954:11"/>
+               <hi>Scriptures,</hi> there muſt be <hi>Wars</hi> and great <hi>Slaughter,</hi> &amp;c.</p>
+            <p>Wherefore, as an <hi>Expedient</hi> againſt the above-mentioned difference between 10 and 1200 Years, we do for the preſent, and in this Country admit of 360 Years to be the time wherein the People of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> do double, according to the preſent <hi>Laws</hi> and <hi>Practice</hi> of <hi>Marriages.</hi>
+            </p>
+            <p>Now, if the City double its People in 40 Years, and the preſent Number be 670 Thouſand, and if the <hi>whole Territory</hi> be 7 Millions 400 Thouſand, and double in 360 Years, as aforeſaid; then by the underwritten Table it appears, that <hi>Anno</hi> 1840, the People of the City will be 10718880, and thoſe of the whole Coun<g ref="char:EOLhyphen"/>try but 10917389, which is but incon<g ref="char:EOLhyphen"/>ſiderably more. Wherefore it is certain and neceſſary that the <hi>Growth</hi> of the City muſt ſtop before the ſaid Year 1840; and will be at its utmoſt height in the next preceding Period, <hi>Anno</hi> 1800, when the Number of the City will be Eight times its preſent Number, <hi>viz.</hi> 5 Millions 359 Thouſand. And when (beſides the ſaid Number) there will be 4 Millions 466 Thouſand to perform the <hi>Tillage, Paſturage,</hi> and other Rural Works neceſ<g ref="char:EOLhyphen"/>ſary
+<pb n="21" facs="tcp:191954:11"/>to be done without the ſaid City, as by the following Table, <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row role="label">
+                     <cell> </cell>
+                     <cell>
+                        <hi>Annis.</hi>
+                     </cell>
+                     <cell>Burials.</cell>
+                     <cell>People in <hi>London.</hi>
+                     </cell>
+                     <cell>People in <hi>England.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rows="8">As in the former Tab.</cell>
+                     <cell>1565</cell>
+                     <cell>2568</cell>
+                     <cell>77040</cell>
+                     <cell>5526929</cell>
+                  </row>
+                  <row>
+                     <cell>1605</cell>
+                     <cell>5135</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>1642</cell>
+                     <cell>11883</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>1682</cell>
+                     <cell>22331</cell>
+                     <cell>669930</cell>
+                     <cell>7369230</cell>
+                  </row>
+                  <row>
+                     <cell>1722</cell>
+                     <cell>44662</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>1762</cell>
+                     <cell>89324</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>1802</cell>
+                     <cell>178648</cell>
+                     <cell>5359440</cell>
+                     <cell>9825650</cell>
+                  </row>
+                  <row>
+                     <cell>1842</cell>
+                     <cell>357296</cell>
+                     <cell>10718889</cell>
+                     <cell>10917389</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Now,<note place="margin">That <hi>Lon<g ref="char:EOLhyphen"/>don</hi> will be at its higheſt growth, and eight times as great as now, <hi>Anno 1800.</hi>
+               </note> when the People of <hi>London</hi> ſhall come to be ſo near the People of all <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> Then it follows, that the <hi>Growth</hi> of <hi>London</hi> muſt ſtop before the ſaid Year 1842, as aforeſaid, and muſt be at its greateſt height <hi>Anno</hi> 1800, when it will be eight times more than now, with a<g ref="char:EOLhyphen"/>bove 4 Millions for the Service of the <hi>Country</hi> and Ports, as aforeſaid.</p>
+            <p>Of the afore-mentioned vaſt difference between 10 Years and 1200 Years for <hi>doubling</hi> the People, we make this uſe, <hi>viz.</hi>
+               <note place="margin">A digreſ<g ref="char:EOLhyphen"/>ſion of the uſe of the vaſt dif<g ref="char:EOLhyphen"/>ference between <hi>10</hi> and <hi>1200</hi> Years of doubling.</note>To juſtifie the <hi>Scriptures</hi> and all other good <hi>Hiſtories</hi> concerning the <hi>Number</hi> of the People in Ancient Time. For ſup<g ref="char:EOLhyphen"/>poſing the Eight <hi>Perſons</hi> who came out of the <hi>Ark, Increaſed</hi> by a Progreſſive doubling in every 10 Years, might grow
+<pb n="22" facs="tcp:191954:12"/>in the firſt 100 Years after the <hi>Flood</hi> from 8 to 8000, and that in 350 Years after the <hi>Flood</hi> (whenabout <hi>Noah</hi> died) to one Million, and by this time 1682, to 320 Millions (which by rational conjecture, are thought to be now in the World) it will not be hard to compute, how in the intermediate Years, the <hi>Growths</hi> may be made, according to what is ſet down in the following <hi>Table,</hi> wherein making the doubling to be 10 Years at firſt, and within 1200 Years at laſt, we take a diſ<g ref="char:EOLhyphen"/>cretionary liberty, but juſtifiable by Ob<g ref="char:EOLhyphen"/>ſervations and the Scriptures for the reſt; which Table we leave to be Corrected by <hi>Hiſtorians,</hi> who know the bigneſs of <hi>An<g ref="char:EOLhyphen"/>cient Cities, Armies,</hi> and <hi>Colonies</hi> in the re<g ref="char:EOLhyphen"/>ſpective <hi>Ages</hi> of the <hi>World:</hi> in the mean time affirming, that without ſuch difference in the <hi>Meaſures</hi> and Periods for doubling (the extreams whereof we have demon<g ref="char:EOLhyphen"/>ſtrated to be real and true) it is impoſſible to ſolve what is written in the Holy <hi>Scri<g ref="char:EOLhyphen"/>ptures</hi> and other <hi>Authentick Books.</hi> For if we pitch upon any one Number through<g ref="char:EOLhyphen"/>out for this purpoſe, 150 Years is the fit<g ref="char:EOLhyphen"/>teſt of all round Numbers; according to which, there would have been but 512 Souls in the whole World in <hi>Moſes</hi>'s time
+<pb n="23" facs="tcp:191954:12"/>(being 800 Years after the Flood) when 603 Thouſand <hi>Iſraelites</hi> of above 20 Years Old (beſides thoſe of other Ages, Tribes, and Nations) were found upon an exact Survey appointed by God; whereas our Table makes 12 Millions. And there would have been but 8000 in <hi>David</hi>'s Time, when were found 1100 Thouſand of above 20 Years Old (beſides others, as aforeſaid) in <hi>Iſrael,</hi> upon the Survey in<g ref="char:EOLhyphen"/>ſtigated by Satan; whereas our Table makes 32 Millions. And there would have been but a quarter of a Million about the Birth of Chriſt, or <hi>Auguſtus</hi> his Time, when <hi>Rome</hi> and the <hi>Roman</hi> Empire were ſo great; whereas our Table makes 100 Millions. Where Note, That the <hi>Iſrae<g ref="char:EOLhyphen"/>lites</hi> in about 500 Years, between their coming out of <hi>Egypt</hi> to <hi>David</hi>'s Reign, increaſed from 603 Thouſand to 1100 Thouſand.</p>
+            <p>On the other hand, if we pitch upon a leſs Number, as 100 Years, the World would have been over-peopled 700 Years ſince. Wherefore no one Number will ſolve the <hi>Phaenomena;</hi> and therefore we have ſuppoſed ſeveral in order to make the following Table, which we a<g ref="char:EOLhyphen"/>gain deſire Hiſtorians to Correct, ac<g ref="char:EOLhyphen"/>cording
+<pb n="24" facs="tcp:191954:13"/>to what they find in Antiquity concerning the Number of the People in each Age and Country of the World.</p>
+            <p>We did (not long ſince) aſſiſt a worthy Divine, writing againſt ſome <hi>Scepticks,</hi> who would have baffled our belief of the Reſurrection, by ſaying, that the whole Globe of the Earth could not furniſh Matter enough for all the Bodies that muſt Riſe at the laſt Day, much leſs would the ſurface of the Earth furniſh footing for ſo vaſt a Number; whereas we did (by the Method aforementioned) aſſert the Number of Men now living, and alſo of thoſe that had died ſince the beginning of the World; and did withal ſhew, that half the Iſland of <hi>Ireland</hi> would afford them all, not only Footing to ſtand upon, but Graves to lie down in, for that whole Number; and that two Mountains in that Country were as weigh<g ref="char:EOLhyphen"/>ty as all the B dies that had ever been from the beginning of the World to the Year 1680, when this Diſpute hap<g ref="char:EOLhyphen"/>pened. For which purpoſe, I have di<g ref="char:EOLhyphen"/>greſſed from my intended purpoſe, to in<g ref="char:EOLhyphen"/>ſert this <hi>Matter,</hi> intending to proſecute this hint further, upon ſome more proper Occaſion.</p>
+            <pb n="25" facs="tcp:191954:13"/>
+            <p>
+               <table>
+                  <head>A Table ſhewing how the People might have doubled in the ſeveral Ages of the World.</head>
+                  <row role="label">
+                     <cell>Periods of doubling </cell>
+                     <cell>
+                        <hi>Anno</hi> after the Flood.</cell>
+                     <cell>Perſons.</cell>
+                  </row>
+                  <row>
+                     <cell rows="11">In 10 Years</cell>
+                     <cell>1</cell>
+                     <cell>8 </cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>128</cell>
+                  </row>
+                  <row>
+                     <cell>50</cell>
+                     <cell>256</cell>
+                  </row>
+                  <row>
+                     <cell>60</cell>
+                     <cell>512</cell>
+                  </row>
+                  <row>
+                     <cell>70</cell>
+                     <cell>1024</cell>
+                  </row>
+                  <row>
+                     <cell>80</cell>
+                     <cell>2048</cell>
+                  </row>
+                  <row>
+                     <cell>90</cell>
+                     <cell>4096</cell>
+                  </row>
+                  <row>
+                     <cell>100</cell>
+                     <cell>8000 and more.</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">In 20 Years</cell>
+                     <cell>120 Years after the Flood.</cell>
+                     <cell>16 Thouſand.</cell>
+                  </row>
+                  <row>
+                     <cell>140</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">In 30 Years</cell>
+                     <cell>170</cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>200</cell>
+                     <cell>128</cell>
+                  </row>
+                  <row>
+                     <cell>In 40 Years</cell>
+                     <cell>240</cell>
+                     <cell>256</cell>
+                  </row>
+                  <row>
+                     <cell>In 50 Years</cell>
+                     <cell>290</cell>
+                     <cell>512</cell>
+                  </row>
+                  <row>
+                     <cell>In 60 Years</cell>
+                     <cell>350</cell>
+                     <cell>1 Million and more.</cell>
+                  </row>
+                  <row>
+                     <cell>In 70 Years</cell>
+                     <cell>420</cell>
+                     <cell>2 Millions.</cell>
+                  </row>
+                  <row>
+                     <cell>In 100 Years</cell>
+                     <cell>520</cell>
+                     <cell>4 Millions.</cell>
+                  </row>
+                  <row>
+                     <cell>In 190 Years</cell>
+                     <cell>710</cell>
+                     <cell>8 Millions.</cell>
+                  </row>
+                  <row>
+                     <cell>In 290 Years</cell>
+                     <cell>1000</cell>
+                     <cell>16 <note place="margin">In <hi>Moſes</hi> Time.</note>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>In 400 Years</cell>
+                     <cell>1400</cell>
+                     <cell>32 <note place="margin">About <hi>Davids</hi> Time.</note>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>In 550 Years</cell>
+                     <cell>1950</cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>In 750 Years</cell>
+                     <cell>2700</cell>
+                     <cell>128 <note place="margin">About the Birth of Chriſt.</note>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>In 1000 Years</cell>
+                     <cell>3700</cell>
+                     <cell>256</cell>
+                  </row>
+                  <row>
+                     <cell>In 300 Years</cell>
+                     <cell rows="2">4000</cell>
+                     <cell rows="2">320</cell>
+                  </row>
+                  <row>
+                     <cell>In 1000 Years</cell>
+                  </row>
+               </table>
+               <pb n="24" facs="tcp:191954:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="25" facs="tcp:191954:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </p>
+            <pb n="26" facs="tcp:191954:15"/>
+            <p>It is here to be noted, That in this Table we have aſſigned a different Num<g ref="char:EOLhyphen"/>ber of Years for the time of doubling the People in the ſeveral Ages of the <hi>World,</hi> and might have done the ſame for the ſeveral <hi>Countries</hi> of the <hi>World,</hi> and therefore the ſaid ſeveral <hi>Periods</hi> aſ<g ref="char:EOLhyphen"/>ſigned to the <hi>whole World</hi> in the <hi>Lump,</hi> may well enough conſiſt with the Three Hundred and Sixty Years, eſpecially aſ<g ref="char:EOLhyphen"/>ſigned to <hi>England,</hi> between this day, and the <hi>Norman</hi> Conqueſt; and the ſaid Three Hundred and Sixty Years may well e<g ref="char:EOLhyphen"/>nough ſerve for a Suppoſition between this time, and that of the <hi>World's</hi> being fully Peopled: Nor do we lay any ſtreſs upon one or the other in this Diſquiſi<g ref="char:EOLhyphen"/>tion concerning the <hi>Growth</hi> of the City of <hi>London.</hi>
+            </p>
+            <p>We have ſpoken of the <hi>Growth</hi> of <hi>London,</hi> with the Meaſures and Periods thereof, we come next to the Cauſes and Conſequences of the ſame.</p>
+            <p>The Cauſes of its <hi>Growth</hi> from 1642 to 1682, may be ſaid to have been as followeth, <hi>viz.</hi> From 1642 to 1650, that Men came out of the <hi>Countrey</hi> to <hi>London,</hi> to ſhelter themſelves from the Outrages of the <hi>Civil Wars,</hi> during that time;
+<pb n="27" facs="tcp:191954:15"/>from 1650 to 1660, the <hi>Royal Party</hi> came to <hi>London,</hi> for their more private and inexpenſive Living; from 1660 to 1670, the <hi>King's Friends</hi> and <hi>Party</hi> came to receive his <hi>Favours</hi> after his <hi>Happy Reſtauration;</hi> from 1670 to 1680, the frequency of <hi>Plots</hi> and Parliaments, might bring extraordinary Numbers to the City; but what Reaſons to aſſign for the like <hi>Increaſe</hi> from 1604 to 1642, I know not, unleſs I ſhould pick out ſome <hi>Remarkable Accident</hi> happening in each part of the ſaid <hi>Period,</hi> and make that to be the Cauſe of this <hi>Increaſe</hi> (as vulgar People make the Cauſe of every Man's Sickneſs to be what he did laſt eat) where<g ref="char:EOLhyphen"/>fore, rather than ſo to ſay, <hi>quidlibet de quolibet;</hi> I had rather quit even what I have above-ſaid to be the Cauſe of <hi>Lon<g ref="char:EOLhyphen"/>don</hi>'s <hi>Increaſe</hi> from 1642 to 1682, and put the whole upon ſome natural and ſpontaneous <hi>Benefits</hi> and Advantages that Men find by living in great more than in ſmall <hi>Societies;</hi> and ſhall therefore ſeek for the <hi>Antecedent Cauſes</hi> of this <hi>Growth,</hi> in the <hi>Conſequences</hi> of the like, conſi<g ref="char:EOLhyphen"/>dered in greater <hi>Characters</hi> and <hi>Propor<g ref="char:EOLhyphen"/>tions.</hi>
+            </p>
+            <pb n="28" facs="tcp:191954:16"/>
+            <p>Now, whereas in Arithmetick, out of two falſe <hi>Poſitions</hi> the Truth is ex<g ref="char:EOLhyphen"/>tracted, ſo I hope out of two <hi>extrava<g ref="char:EOLhyphen"/>gant</hi> contrary Suppoſitions, to draw forth ſome ſolid and conſiſtent <hi>Concluſion,</hi> viz.</p>
+            <p>The firſt of the ſaid two Suppoſiti<g ref="char:EOLhyphen"/>ons is, That the City of <hi>London</hi> is ſeven times bigger than now, and that the <hi>Inhabitants</hi> of it are four Millions Six Hundred and Ninety Thouſand People; and that in all the other <hi>Cities, Ports, Towns</hi> and <hi>Villages,</hi> there are but two Millions Seven Hundred and Ten Thou<g ref="char:EOLhyphen"/>ſand more.</p>
+            <p>The other <hi>Suppoſition</hi> is, That the City of <hi>London</hi> is but a ſeventh part of its preſent bigneſs, and that the <hi>Inhabi<g ref="char:EOLhyphen"/>tants</hi> of it are but Ninety Six Thouſand, and that the reſt of the Inhabitants (be<g ref="char:EOLhyphen"/>ing Seven Millions Three Hundred Four Thouſand) do co-habit thus, One Hun<g ref="char:EOLhyphen"/>dred Four Thouſand of them in ſmall <hi>Cities</hi> and <hi>Towns,</hi> and that the reſt, being ſeven Millions Two Hundred Thouſand, do inhabit in <hi>Houſes</hi> not contiguous to one another, <hi>viz.</hi> In Twelve Hundred Thouſand Houſes, having about Twenty Four Acres of Ground belonging to each
+<pb n="29" facs="tcp:191954:16"/>of them, accounting about Twenty Eight Millions of Acres to be in the whole <hi>Territory</hi> of <hi>England, Wales,</hi> and the ad<g ref="char:EOLhyphen"/>jacent <hi>Iſlands;</hi> which any Man that pleaſes may examine upon a good Map.</p>
+            <p>Now, the Queſtion is, In which of theſe imaginary States, would be the moſt convenient, commodious and comfortable Livings?</p>
+            <p>But this general Queſtion divides it ſelf into the ſeveral Queſtions, relating to the following Particulars, <hi>viz.</hi>
+            </p>
+            <list>
+               <item n="1">1. For the <hi>Defence</hi> of the Kingdom againſt Foreign Powers.</item>
+               <item n="2">2. For preventing the <hi>Inteſtine Com<g ref="char:EOLhyphen"/>motions</hi> of <hi>Parties</hi> and <hi>Factions.</hi>
+               </item>
+               <item n="3">3. For <hi>Peace</hi> and <hi>Uniformity</hi> in <hi>Re<g ref="char:EOLhyphen"/>ligion.</hi>
+               </item>
+               <item n="4">4. For the <hi>Adminiſtration</hi> of <hi>Juſtice.</hi>
+               </item>
+               <item n="5">5. For the proportionably <hi>Taxing</hi> of the People, and eaſie <hi>Levying</hi> the ſame.</item>
+               <item n="6">6. For <hi>Gain</hi> by Foreign Commerce.</item>
+               <item n="7">7. For <hi>Husbandry, Manufacture,</hi> and for <hi>Arts</hi> of Delight and Ornament.</item>
+               <item n="8">8. For leſſening the Fatigue of <hi>Car<g ref="char:EOLhyphen"/>riages</hi> and <hi>Travelling.</hi>
+               </item>
+               <pb n="30" facs="tcp:191954:17"/>
+               <item n="9">9. For preventing <hi>Beggars</hi> and <hi>Thieves.</hi>
+               </item>
+               <item n="10">10. For the Advancement and Propa<g ref="char:EOLhyphen"/>gation of <hi>Uſeful Learning.</hi>
+               </item>
+               <item n="11">11. For <hi>Increaſing</hi> the People by <hi>Gene<g ref="char:EOLhyphen"/>ration.</hi>
+               </item>
+               <item n="12">12. For preventing the Miſchiefs of <hi>Plagues</hi> and <hi>Contagions.</hi> And withal, which of the ſaid two States is moſt Practicable and Natural; for in theſe and the like Particulars, do lie the <hi>Teſts</hi> and <hi>Touchſtones</hi> of all <hi>Propoſals,</hi> that can be made for the Publick Good.</item>
+            </list>
+            <p>Firſt, as to <hi>Practicable,</hi> we ſay, That although our ſaid Extravagant Propoſals are both in Nature poſſible, yet it is not Obvious to every Man to conceive, how <hi>London,</hi> now ſeven times bigger than in the beginning of Queen <hi>Elizabeth</hi>'s <hi>Reign,</hi> ſhould be ſeven times bigger than now it is, and Forty Nine times bigger than <hi>Anno</hi> 1560. To which I ſay, 1. That the preſent City of <hi>London</hi> ſtands upon leſs than Two Thouſand Five Hundred Acres of Ground; where<g ref="char:EOLhyphen"/>fore a City ſeven times as large may ſtand upon Ten Thouſand Five Hun<g ref="char:EOLhyphen"/>dred Acres, which is about equivalent to a Circle of Four Miles and a half in
+<pb n="31" facs="tcp:191954:17"/>Diameter, and leſs than Fifteen Miles in Circumference. 2. That a Circle of Ground of Thirty Five Miles Semi-Diameter will bear <hi>Corn, Garden-ſtuff, Fruits, Hay,</hi> and <hi>Timber</hi> for the Four Mil<g ref="char:EOLhyphen"/>lions Six Hundred and Ninety Thouſand Inhabitants of the ſaid City and Circle, ſo as nothing of that kind need be brought from above Thirty Five Miles diſtance from the ſaid City; for the Number of Acres within the ſaid Cir<g ref="char:EOLhyphen"/>cle, reckoning Two Acres ſufficient to furniſh <hi>Bread</hi> and <hi>Drink-Corn</hi> for every Head, and Two Acres will furniſh Hay for every neceſſary Horſe; And that the Trees which may grow in the Hedge<g ref="char:EOLhyphen"/>rows of the Fields within the ſaid Cir<g ref="char:EOLhyphen"/>cle, may furniſh <hi>Timber</hi> for Six Hun<g ref="char:EOLhyphen"/>dred Thouſand Houſes. 3. That all live Cattel and great Animals can bring themſelves to the ſaid City; and that Fiſh can be brought from the <hi>Lands-end</hi> and <hi>Berwick,</hi> as eaſily as now. 4. Of <hi>Coals</hi> there is no doubt: And for Wa<g ref="char:EOLhyphen"/>ter, Twenty Shillings <hi>per</hi> Family (or Six Hundred Thouſand Pounds <hi>per An<g ref="char:EOLhyphen"/>num</hi> in the whole) will ſerve this <hi>City,</hi> eſpecially with the help of the <hi>New-River.</hi> But if by Practicable be underſtood, that
+<pb n="32" facs="tcp:191954:18"/>the preſent State may be ſuddenly chang<g ref="char:EOLhyphen"/>ed into either of the Two above-men<g ref="char:EOLhyphen"/>tioned Propoſals, I think it is not <hi>Pra<g ref="char:EOLhyphen"/>cticable.</hi> Wherefore the true Queſtion is, unto or towards which of the ſaid Two extravagant States is beſt to bend the preſent State by degrees, <hi>viz.</hi> Whether it be beſt to leſſen or enlarge the pre<g ref="char:EOLhyphen"/>ſent City? In order whereunto, we en<g ref="char:EOLhyphen"/>quire (as to the firſt Queſtion) which State is moſt <hi>Defenſible</hi> againſt <hi>Foreign Powers;</hi> ſaying. That if the above-men<g ref="char:EOLhyphen"/>tioned Houſing, and a border of Ground, of Three Quarters of a Mile broad, were encompaſſed with a Wall and Ditch of Twenty Miles about (as ſtrong as any in <hi>Europe,</hi> which would coſt but a Million, or about a Peny in the Shil<g ref="char:EOLhyphen"/>ling of the Houſe-Rent for one Year) what <hi>Foreign Prince</hi> could bring an Army from beyond Seas, able to beat, 1. Our Sea-Forces, and next with Horſe harraſs'd at Sea, to reſiſt all the freſh Horſe that <hi>England</hi> could make, and then Conquer above a Million of Men, well United, Diſciplin'd, and Guarded within ſuch a <hi>Wall,</hi> diſtant every where Three Quar<g ref="char:EOLhyphen"/>ters of a Mile from the Houſing, to e<g ref="char:EOLhyphen"/>lude the <hi>Granadoes</hi> and great Shot of the
+<pb n="33" facs="tcp:191954:18"/>
+               <hi>Enemy?</hi> 2. As to <hi>Inteſtine Parties</hi> and <hi>Factions,</hi> I ſuppoſe that Four Millions Six Hundred and Ninety Thouſand People united within this great City, could ea<g ref="char:EOLhyphen"/>ſily Govern half the ſaid Number ſcat<g ref="char:EOLhyphen"/>tered without it; and that a few Men in Arms within the ſaid City and Wall, could alſo eaſily Govern the reſt un<g ref="char:EOLhyphen"/>armed, or armed in ſuch a manner as the <hi>Sovereign</hi> ſhall think fit. 3. As to <hi>Uni<g ref="char:EOLhyphen"/>formity</hi> in <hi>Religion,</hi> I conceive, That if St. <hi>Martin</hi>'s Pariſh (may as it doth) conſiſt of about Forty Thouſand Souls, That this great City alſo may as well be made but as one Pariſh, with Seven times One Hundred and Thirty Chap<g ref="char:EOLhyphen"/>pels, in which might not only be an U<g ref="char:EOLhyphen"/>niformity of Common Prayer, but in Preaching alſo; for that a Thouſand Co<g ref="char:EOLhyphen"/>pies of one Judiciouſly and Authentical<g ref="char:EOLhyphen"/>ly compoſed <hi>Sermon,</hi> might be every Week read in each of the ſaid <hi>Chappels</hi> without any ſubſequent Repetition of the ſame, as in the Caſe of Homilies. Whereas in <hi>England</hi> (wherein are near Ten Thouſand Pariſhes, in each of which upon <hi>Sundays, Holy-Days,</hi> and other ex<g ref="char:EOLhyphen"/>traordinary Occaſions, there ſhould be about One Hundred Sermons <hi>per Annum,</hi>
+               <pb n="34" facs="tcp:191954:19"/>making about a Million of Sermons <hi>per Annum</hi> in the whole:) It were a Mi<g ref="char:EOLhyphen"/>racle, if a Million of Sermons compoſed by ſo many Men, and of ſo many Minds and Methods, ſhould produce <hi>Unifor<g ref="char:EOLhyphen"/>mity</hi> upon the diſcompoſed Underſtand<g ref="char:EOLhyphen"/>ings of about Eight Millions of Hear<g ref="char:EOLhyphen"/>ers.</p>
+            <p n="4">4. As to the <hi>Adminiſtration</hi> of <hi>Ju<g ref="char:EOLhyphen"/>ſtice.</hi> If in this great City ſhall dwell the Owners of all the Lands and other valuable Things in <hi>England;</hi> if within it ſhall be all the <hi>Traders,</hi> and all the <hi>Courts, Offices, Records, Juries,</hi> and <hi>Wit<g ref="char:EOLhyphen"/>neſſes;</hi> then it follows, that <hi>Juſtice</hi> may be done with ſpeed and eaſe.</p>
+            <p n="5">5. As to the <hi>Equality</hi> and eaſie <hi>Levy<g ref="char:EOLhyphen"/>ing</hi> of Taxes. It is too certain, that <hi>London</hi> hath at ſome times paid near half the Exciſe of <hi>England;</hi> and that the Peo<g ref="char:EOLhyphen"/>ple pay thrice as much for the Hearths in <hi>London,</hi> as thoſe in the Country, in proportion to the People of each; and that the Charge of Collecting theſe Du<g ref="char:EOLhyphen"/>ties, have been about a ſixth part of the Duty it ſelf. Now, in this great City, the Exciſe alone, according to the pre<g ref="char:EOLhyphen"/>ſent Laws, would not only be double to the whole Kingdom, but alſo more equal.
+<pb n="35" facs="tcp:191954:19"/>And the Duty of Hearths of the ſaid City, would exceed the preſent proceed of the whole Kingdom: And as for the <hi>Cuſtoms,</hi> we mention them not at pre<g ref="char:EOLhyphen"/>ſent.</p>
+            <p n="6">6. Whether more would be <hi>gained</hi> by <hi>Foreign Commerce?</hi>
+            </p>
+            <p>The Gain which <hi>England</hi> makes by <hi>Lead, Coals,</hi> the Freight of Shipping, <hi>&amp;c.</hi> may be the ſame, for ought I ſee, in both Caſes. But the Gain which is made by <hi>Manufactures,</hi> will be greater, as the Ma<g ref="char:EOLhyphen"/>nufacture it ſelf is greater and better. For in ſo vaſt a City <hi>Manufactures</hi> will beget one another, and each <hi>Manufacture</hi> will be divided into as many parts as poſſible, whereby the Work of each <hi>Ar<g ref="char:EOLhyphen"/>tiſan</hi> will be ſimple and eaſie; as for Example. In the making of a <hi>Watch,</hi> if one Man ſhall make the <hi>Wheels,</hi> ano<g ref="char:EOLhyphen"/>ther the <hi>Spring,</hi> another ſhall Engrave the <hi>Dial-plate,</hi> and another ſhall make the <hi>Caſes,</hi> then the <hi>Watch</hi> will be better and cheaper, than if the whole Work be put upon any one Man. And we alſo ſee that in <hi>Towns,</hi> and in the <hi>Streets</hi> of a great <hi>Town,</hi> where all the <hi>Inhabi<g ref="char:EOLhyphen"/>tants</hi> are almoſt of one Trade, the Com<g ref="char:EOLhyphen"/>modity peculiar to thoſe places is made
+<pb n="36" facs="tcp:191954:20"/>better and cheaper than elſewhere. More<g ref="char:EOLhyphen"/>over, when all ſorts of Manufactures are made in one place, there every Ship that goeth forth, can ſuddenly have its Load<g ref="char:EOLhyphen"/>ing of ſo many ſeveral Particulars and Species, as the Port whereunto ſhe is bound can take off. Again, when the ſeveral <hi>Manufactures</hi> are made in one place, and ſhipped off in another, the <hi>Carriage, Poſtage,</hi> and <hi>Travelling-Charges</hi> will inhance the Price of ſuch <hi>Manufa<g ref="char:EOLhyphen"/>cture,</hi> and leſſen the Gain upon <hi>Foreign Commerce.</hi> And laſtly, when the import<g ref="char:EOLhyphen"/>ed Goods are ſpent in the Port it ſelf, where they are landed, the Carriage of the ſame into other places will create no ſurcharge upon ſuch Commodity; all which particulars tend to the greater Gain by <hi>Foreign Commerce.</hi>
+            </p>
+            <p n="7">7. As for <hi>Arts</hi> of <hi>Delight</hi> and <hi>Orna<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>They are beſt promoted by the great<g ref="char:EOLhyphen"/>eſt Number of <hi>Emulators.</hi> And it is more likely that one <hi>ingenious, curious Man</hi> may rather be found out amongſt Four Millions than Four Hundred Perſons. But as for <hi>Husbandry,</hi> viz. <hi>Tillage</hi> and <hi>Paſturage,</hi> I ſee no Reaſon, but the ſecond State (when each Family is charged with
+<pb n="37" facs="tcp:191954:20"/>the Culture of about Twenty Four A<g ref="char:EOLhyphen"/>cres) will beſt promote the ſame.</p>
+            <p n="8">8. As for leſſening the Fatigue of <hi>Car<g ref="char:EOLhyphen"/>riage</hi> and <hi>Travelling.</hi>
+            </p>
+            <p>The thing ſpeaks it ſelf; for if all the Men of Buſineſs, and all <hi>Artiſans</hi> do live within Five Miles of each other: And if thoſe who live without the great City, do ſpend only ſuch Commodities as grow where they live, then the Charge of Carriage and Travelling could be little.</p>
+            <p n="9">9. As to the preventing of <hi>Beggars</hi> and <hi>Thieves.</hi>
+            </p>
+            <p>I do not find how the differences of the ſaid two States ſhould make much difference in this particular; for Impo<g ref="char:EOLhyphen"/>tents (which are but One in about Six Hundred) ought to be maintained by the reſt. 2. Thoſe who are unable to Work, through the evil Education of their <hi>Pa<g ref="char:EOLhyphen"/>rents,</hi> ought (for ought I know) to be maintained by their neareſt Kindred, as a juſt Puniſhment upon them. 3. And thoſe who cannot find Work (though able and willing to perform it) by rea<g ref="char:EOLhyphen"/>ſon of the unequal application of Hands to Lands, ought to be provided for by the <hi>Magiſtrate</hi> and <hi>Landlord</hi> till that can
+<pb n="38" facs="tcp:191954:21"/>be done; for there needs be no <hi>Beggars</hi> in Countries, where there are many A<g ref="char:EOLhyphen"/>cres of unimproved improvable Land to every Head, as there are in <hi>England.</hi> As for <hi>Thieves,</hi> they are for the moſt part begotten from the ſame Cauſe; for it is againſt Nature, that any Man ſhould venture his Life, Limb, or Liber<g ref="char:EOLhyphen"/>ty, for a wretched Livelihood, whereas moderate Labour will produce a better. But of this ſee Sir <hi>Thomas Moor,</hi> in the firſt part of his <hi>Utopia.</hi>
+            </p>
+            <p n="10">10. As to the <hi>Propagation</hi> and <hi>Improve<g ref="char:EOLhyphen"/>ment</hi> of <hi>Uſeful Learning.</hi>
+            </p>
+            <p>The ſame may be ſaid concerning it, as was above-ſaid concerning <hi>Manufa<g ref="char:EOLhyphen"/>ctures,</hi> and the <hi>Arts</hi> of <hi>Delight</hi> and <hi>Or<g ref="char:EOLhyphen"/>nament;</hi> for in the great yaſt City, there can be no ſo odd a Conceit or Deſign, whereunto ſome Aſſiſtance may not be found, which in the thin, ſcattered way of Habitation may not be.</p>
+            <p n="11">11. As for the <hi>Increaſe</hi> of <hi>People</hi> by <hi>Generatior,</hi>
+            </p>
+            <p>I ſee no great difference from either of the two States, for the ſame may be hindred or promoted in either, from the ſame Cauſes.</p>
+            <pb n="39" facs="tcp:191954:21"/>
+            <p n="12">12. As to the <hi>Plague.</hi>
+            </p>
+            <p>It is to be remembred, that one time with another, a <hi>Plague</hi> happeneth in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> once in Twenty Years, or there<g ref="char:EOLhyphen"/>abouts; for in the laſt Hundred Years, between the Years 1582 and 1682, there have been Five great <hi>Plagues,</hi> viz. <hi>Anno</hi> 1592, 1603, 1625, 1636 and 1665. And it is alſo to be remembred, that the <hi>Plagues</hi> of <hi>London</hi> do commonly kill one fifth part of the <hi>Inhabitants.</hi> Now, if the whole People of <hi>England</hi> do double but in Three Hundred and Sixty Years, then the Annual Increaſe of the ſame is but Twenty Thouſand, and in Twenty Years Four Hundred Thouſand. But if in the City of <hi>London</hi> there ſhould be Two Millions of People, (as there will be about Sixty Years hence) then the <hi>Plague</hi> (killing one fifth of them, name<g ref="char:EOLhyphen"/>ly, Four Hundred Thouſand once, in Twenty Years) will deſtroy as many in One Year, as the whole Nation can re<g ref="char:EOLhyphen"/>furniſh in Twenty: And conſequently the People of the Nation ſhall never Increaſe. But if the People of <hi>London</hi> ſhall be a<g ref="char:EOLhyphen"/>bove Four Millions (as in the firſt of our Two <hi>extravagant</hi> Suppoſitions is pre<g ref="char:EOLhyphen"/>miſed) then the People of the whole
+<pb n="40" facs="tcp:191954:22"/>Nation ſhall leſſen above Twenty Thou<g ref="char:EOLhyphen"/>ſand <hi>per Annum.</hi> So as if People be worth Seventy Pounds <hi>per</hi> Head (as hath elſewhere been ſhewn) then the ſaid greatneſs of the City will be a damage to it ſelf and the whole Nation of Four<g ref="char:EOLhyphen"/>teen Hundred Thouſand Pounds <hi>per An<g ref="char:EOLhyphen"/>num,</hi> and ſo <hi>pro Rata,</hi> for a greater or leſſer Number; wherefore to determine, which of the Two <hi>States</hi> is beſt, (that is to ſay, towards which of the ſaid Two <hi>States, Authority</hi> ſhould bend the preſent <hi>State</hi>) a juſt Balance ought to be made between the Diſadvantages from the <hi>Plague,</hi> with the Advantages accruing from the other Particulars above-mention<g ref="char:EOLhyphen"/>ed; unto which <hi>Balance</hi> a more exact Account of the People, and a better Rule for the Meaſure of its Growth is ne<g ref="char:EOLhyphen"/>ceſſary, that what we have here given, or are yet able to lay down.</p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="41" facs="tcp:191954:22"/>
+            <head>POSTSCRIPT.</head>
+            <p>IT was not very pertinent to a <hi>Diſcourſe</hi> concerning the <hi>Growth</hi> of the City of <hi>London,</hi> to thruſt in Conſiderations of the Time when the whole <hi>World</hi> will be fully Peopled; and how to juſtifie the <hi>Scriptures</hi> concerning the Number of Peo<g ref="char:EOLhyphen"/>ple mentioned in them; and concerning the Number of the Quick and the Dead, that may riſe at the laſt Day, <hi>&amp;c.</hi> Ne<g ref="char:EOLhyphen"/>vertheleſs, ſince ſome Friends liking the ſaid Digreſſions and Impertinences (per<g ref="char:EOLhyphen"/>haps as Sawce to a dry Diſcourſe) have deſired that the ſame might be explained and made out: I therefore ſay as fol<g ref="char:EOLhyphen"/>loweth
+<list>
+                  <item n="1">1. If the Number of Acres in the ha<g ref="char:EOLhyphen"/>bitable Part of the Earth, be under Fifty Thouſand Millions; if Twenty Thouſand Millions of People, are more than the ſaid Number of Acres will feed; (few
+<pb n="42" facs="tcp:191954:23"/>or no Countries being ſo fully peopled;) and for that in Six doublings (which will be in Two Thouſand Years) the preſent Three Hundred and Twenty Mil<g ref="char:EOLhyphen"/>lions will exceed the ſaid Twenty Thou<g ref="char:EOLhyphen"/>ſand Millions.</item>
+                  <item n="2">2. That the Number of all thoſe who have died ſince the <hi>Flood,</hi> is the Sum of all the Products made by multiplying the Number of the doubling Periods mention<g ref="char:EOLhyphen"/>ed in the firſt Column of the laſt Table, by the Number of People reſpectively af<g ref="char:EOLhyphen"/>fixed to them, in the third Column of the ſame Table; the ſaid Sum being di<g ref="char:EOLhyphen"/>vided by Forty (One dying out of Forty <hi>per Annum,</hi> out of the whole Maſs of Man<g ref="char:EOLhyphen"/>kind) which Quotient is Twelve Thou<g ref="char:EOLhyphen"/>ſand Five Hundred and Seventy Millions; whereunto may be added, for thoſe that died before the <hi>Flood,</hi> enough to make the laſt mentioned Number Twenty Thouſand Millions, as the full Number of all that died, from the beginning of the World, to the Year 1682; unto which, if Three Hundred and Twenty Millions, the Num<g ref="char:EOLhyphen"/>ber of thoſe who are now alive, be added, the total of the Quick and the Dead will amount but to One Fifth Part of the Graves, which the ſurface of <hi>Ireland</hi> will
+<pb n="43" facs="tcp:191954:23"/>afford, without ever putting two Bodies into one Grave; for there be in <hi>Ireland</hi> Twenty Eight Thouſand ſquare <hi>Engliſh</hi> Miles, each whereof will afford about Four Millions of Graves, and conſequently a<g ref="char:EOLhyphen"/>bove One Hundred and Fourteen Thou<g ref="char:EOLhyphen"/>ſand Millions of Graves, <hi>viz.</hi> about Five times the Number of the Quick and the Dead, which ſhould ariſe at the laſt Day, in caſe the ſame had been in the Year 1682.</item>
+                  <item n="3">3. Now, if there may be place for five times as many Graves in <hi>Ireland,</hi> as are ſufficient for all that ever died; and if the Earth of one Grave weigh five times as much as the Body interred therein, then a Turf, leſs than a Foot thick, pared off from a fifth part of the ſurface of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> will be equivalent in bulk and weight to all the Bodies that ever were Buried; and may ſerve as well for that purpoſe, as the Two Mountains afore-mentioned in the Body of this Diſcourſe. From all which it is plain, how madly they were miſtaken, who did ſo petulantly vilifie what the <hi>Holy Scriptures</hi> have delivered.</item>
+               </list>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:191954:24"/>
+         </div>
+      </back>
+   </text>
+</TEI>
